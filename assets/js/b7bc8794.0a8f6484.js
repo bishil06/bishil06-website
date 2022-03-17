@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbishil_06_website=self.webpackChunkbishil_06_website||[]).push([[258],{2118:function(e){e.exports=JSON.parse('{"permalink":"/bishil06-website/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
